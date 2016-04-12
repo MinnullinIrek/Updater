@@ -1,0 +1,10 @@
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Updater\bin\Debug\Updater.exe.config
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Updater\bin\Debug\Updater.exe
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Updater\bin\Debug\Updater.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Updater\obj\Debug\Updater.exe
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Updater\obj\Debug\Updater.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Updater.exe.config
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Update\bin\Debug\Updater.exe.config
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Update\bin\Debug\Updater.exe
+c:\Users\admin\documents\visual studio 2015\Projects\Update\Update\bin\Debug\Updater.pdb

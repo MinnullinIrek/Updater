@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\bin\Debug\Update.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\bin\Debug\Update.exe
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\bin\Debug\Update.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\obj\Debug\Update.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\obj\Debug\Update.exe
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\obj\Debug\Update.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Update\Update\obj\Debug\Update.Form1.resources
