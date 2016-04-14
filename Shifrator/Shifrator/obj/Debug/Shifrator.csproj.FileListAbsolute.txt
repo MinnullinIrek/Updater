@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\bin\Debug\Shifrator.exe.config
+C:\Users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\bin\Debug\Shifrator.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\bin\Debug\Shifrator.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\obj\Debug\Shifrator.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\obj\Debug\Shifrator.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\obj\Debug\Shifrator.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\obj\Debug\Shifrator.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Shifrator\Shifrator\obj\Debug\Shifrator.pdb
